@@ -4,7 +4,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Hello</div>
+    <div>Hello everyone, what do you think all stuff I want? thanks cheers mate you welcome mate.</div>
   )
 }
 
