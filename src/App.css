@@ -1,3 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    min-height: 100vh;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .btn-line{
     text-decoration: line-through;
 }

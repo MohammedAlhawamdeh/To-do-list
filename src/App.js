@@ -49,7 +49,7 @@ const App = () => {
 
   return (
     <>
-    <h1>To Do List</h1>
+    <h1>Todo List App</h1>
     <input type="text" value={input} onChange={handleChange} />
     <button onClick={handleClick}><GoPlus/></button>
     <select onChange={handleSelection} value={selection}>
